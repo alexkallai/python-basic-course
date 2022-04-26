@@ -1,0 +1,13 @@
+2. alkalom:
+első feladat:
+hello world szerű alkalmazás, amiben legyen kérdés, ahol bekérünk egy nevet, aztán ha
+úgy hívnak, hogy xy, akkor hello xy, ellenkező esetben írja ki, hogy nem ismerlek
+
+házi, hogyan kell listához és dicthez elemeket hozzáadni és kivenni, érték és index alapján
+
+következő alkalommal ezekből lesz gyakorlás
+
+
+osztályok nevei nagy kezdőbetűsek: MainClass
+
+raktáros program házinak
