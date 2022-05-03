@@ -11,7 +11,7 @@ class InventoryBase:
         self.storageDict.update({str(name):int(amount)})
         print(f"added {name} record with {amount} amount")
 
-    def checkOutItem(self, name, amount):
+    def checkOutItem(self, name: str, amount: int):
         self.storageDict[name] -= amount
         print(f"'{name}' record was decreased by {amount} in the inventory.")
 

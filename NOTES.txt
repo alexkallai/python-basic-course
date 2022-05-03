@@ -10,4 +10,15 @@ következő alkalommal ezekből lesz gyakorlás
 
 osztályok nevei nagy kezdőbetűsek: MainClass
 
-raktáros program házinak
+raktáros program házinak, guid-ja legyen minden terméknek
+
+
+
+3. alkalom:
+mik a primitívek: alap adattípusok: int, float, dict, list stb.
+
+házi: OOP-s raktár program
+szétdobni moduls, main, menü hívja meg az adatkezelést, hozzáad, töröl, módosít stb
+tudja a szoftver, hogy hozzáad vagy módosít
+változott-e
+json olvasás, írás legyen
