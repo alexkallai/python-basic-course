@@ -22,3 +22,15 @@ szétdobni moduls, main, menü hívja meg az adatkezelést, hozzáad, töröl, m
 tudja a szoftver, hogy hozzáad vagy módosít
 változott-e
 json olvasás, írás legyen
+
+
+4. atlassian git leírást megnézni
+saját repo-ban kipróbálni a leírás alapján őket!
+
+
+extra házi:
+history.json
+timestamp, lehetne value, és a hozzá tartozó érték a parancs, ami aktuálisan lefutott
+régi érték, új érték
+ahol csak lehet, legyen try-except
+ott minél több exception legyen benne
