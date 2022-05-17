@@ -34,3 +34,21 @@ timestamp, lehetne value, és a hozzá tartozó érték a parancs, ami aktuális
 régi érték, új érték
 ahol csak lehet, legyen try-except
 ott minél több exception legyen benne
+
+5. alkalom
+ahol még nincs megírva az adott feature, akkor érdemes raise NotImplementedError-t használni
+pandas
+
+raktáros feladathoz legyen export feature
+json, csv
+
+
+argumentumok, keyword argumentumok
+
+unit test, általában a fejlesztők írják őket
+megnézni az assert típusokat a unittest python package-ben
+
+
+házi, unit testek írása
+python -m unittest discover --verbose -p "*_test.py"
+mocking
