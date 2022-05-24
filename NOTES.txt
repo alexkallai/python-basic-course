@@ -52,3 +52,12 @@ megnézni az assert típusokat a unittest python package-ben
 házi, unit testek írása
 python -m unittest discover --verbose -p "*_test.py"
 mocking
+
+6. alkalom
+háziknál érdemes majd review-zni
+pylint package - statikus kódelemző
+github actions ~ pipeline, pl lehet kódanalízist futtatni
+
+requirements.txt létrehozása:
+python -m pip freeze > requirements.txt
+házihoz legyenek unit tesztek
