@@ -61,3 +61,22 @@ github actions ~ pipeline, pl lehet kódanalízist futtatni
 requirements.txt létrehozása:
 python -m pip freeze > requirements.txt
 házihoz legyenek unit tesztek
+
+7. alkalom
+pyinstaller
+
+
+9. alkalom:
+pyinstaller előző alkalomról
+main.py-hoz main.spec fájlt létre lehet hozni, ami tartalmazza
+cpython
+tqdm, https://en.wikipedia.org/wiki/Ncurses
+list() type()
+
+https://nsis.sourceforge.io/Download
+NSIS install generátor tool:
+kell hozzá egy .nsi fájl, amiben a konfigok be vannak állítva
+https://nsis.sourceforge.io/Simple_tutorials
+
+háziban json helyett sqlite3-ban legyenek tárolva az adatok
+export database to xml, json stb.
